@@ -46,12 +46,12 @@ Key features include:
 
 With React Native, you can develop a wide range of mobile applications, including:
 
-- Social Media Apps## : Build platforms similar to Facebook, Instagram, or Twitter.
-- E-Commerce Apps## : Develop shopping apps with functionalities like product listings, cart management, and payment processing.
-- Entertainment Apps## : Create apps for streaming services, news, and media consumption.
-- Productivity Apps## : Develop tools for task management, calendar scheduling, and document editing.
-- Health and Fitness Apps## : Build applications for tracking workouts, health metrics, and diet plans.
-- Educational Apps## : Create platforms for learning and online courses with interactive content.
+- **Social Media Apps** : Build platforms similar to Facebook, Instagram, or Twitter.
+- **E-Commerce Apps** : Develop shopping apps with functionalities like product listings, cart management, and payment processing.
+- **Entertainment Apps** : Create apps for streaming services, news, and media consumption.
+- **Productivity Apps** : Develop tools for task management, calendar scheduling, and document editing.
+- **Health and Fitness Apps** : Build applications for tracking workouts, health metrics, and diet plans.
+- **Educational Apps** : Create platforms for learning and online courses with interactive content.
 
 ## Average Salary
 
