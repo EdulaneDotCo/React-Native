@@ -26,11 +26,11 @@ Whether you're looking to advance your career in mobile app development or start
 React Native is a powerful framework for building mobile applications that offers several advantages:
 
 1. **Cross-Platform Development**: Write once, run anywhere. With React Native, you can develop applications for both iOS and Android platforms using a single codebase, saving time and effort.
-2. **Performance**: React Native provides near-native performance by leveraging native components, which means your app will run smoothly and efficiently on mobile devices.
-3. **Rich Ecosystem**: The React Native ecosystem includes a vast array of libraries, tools, and community resources that can accelerate development and solve common challenges.
-4. **Hot Reloading**: This feature allows developers to instantly see the results of the latest changes without needing to recompile the entire application, which speeds up the development process.
-5. **Component-Based Architecture**: React Native's component-based architecture promotes reusability and maintainability of code, making it easier to manage and scale applications.
-6. **Strong Community Support**: Being backed by Facebook and a large open-source community, React Native has extensive documentation, tutorials, and community support, making it easier to find solutions and stay updated with best practices.
+1. **Performance**: React Native provides near-native performance by leveraging native components, which means your app will run smoothly and efficiently on mobile devices.
+1. **Rich Ecosystem**: The React Native ecosystem includes a vast array of libraries, tools, and community resources that can accelerate development and solve common challenges.
+1. **Hot Reloading**: This feature allows developers to instantly see the results of the latest changes without needing to recompile the entire application, which speeds up the development process.
+1. **Component-Based Architecture**: React Native's component-based architecture promotes reusability and maintainability of code, making it easier to manage and scale applications.
+1. **Strong Community Support**: Being backed by Facebook and a large open-source community, React Native has extensive documentation, tutorials, and community support, making it easier to find solutions and stay updated with best practices.
 
 **What is React Native?**
 
@@ -552,4 +552,26 @@ This 45-session workshop is designed to provide a comprehensive, hands-on learni
 - **LeetCode/HackerRank:** Solve problems related to future technologies and trends.
 - **DSA Focus:** Review principles of staying current with industry advancements.
 - **Interview Planning:** Discuss future trends and their implications for React Native development.
+
+**Tips and Tricks for Unit Testing and ESLint**
+
+**Unit Testing Tips:**
+
+1. **Use Jest for React Native:** Jest is the recommended testing framework for React Native due to its ease of use and integration with React. It provides built-in assertions and mocking capabilities.
+1. **Write Testable Code:** Design your components and functions to be easily testable by keeping them small, focused, and with minimal side effects. This makes writing and maintaining tests easier.
+1. **Mock Dependencies:** Use Jest's mocking capabilities to isolate the unit you're testing from external dependencies like APIs or databases. This ensures that your tests focus on the component or function itself.
+1. **Test Edge Cases:** Don’t just test the happy path. Ensure you cover edge cases and error scenarios to make your application more robust.
+1. **Use Snapshot Testing:** Utilize Jest’s snapshot testing to track changes to your UI components. This helps in catching unintended changes in the UI over time.
+1. **Automate Testing:** Integrate unit tests into your CI/CD pipeline to automatically run tests on every commit and pull request. This helps catch issues early in the development process.
+
+**ESLint Tips:**
+
+1. **Configure ESLint Properly:** Start with a base configuration suitable for React Native and adjust rules according to your project's coding standards. Use .eslintrc.js for customizable configurations.
+1. **Use ESLint Plugins:** Incorporate plugins like eslint-plugin-react and eslint-plugin-react-native to enforce React-specific and React Native-specific linting rules.
+1. **Enable Prettier Integration:** Integrate Prettier with ESLint for consistent code formatting. Use eslint-config-prettier to disable formatting rules that conflict with Prettier.
+1. **Define Code Style Rules:** Establish and enforce a consistent code style by defining rules for spacing, indentation, and naming conventions. This improves code readability and maintainability.
+1. **Run ESLint in Your IDE:** Set up ESLint in your code editor to get real-time feedback on code quality and style violations as you write code.
+1. **Review and Update Rules Regularly:** Regularly review and update your ESLint rules to adapt to changes in coding practices and project requirements. Ensure the rules align with the team’s coding guidelines.
+
+By following these tips, you can enhance your testing practices and maintain high-quality, clean code throughout your React Native projects.
 
