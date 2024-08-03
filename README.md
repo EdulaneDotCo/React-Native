@@ -25,12 +25,12 @@ Whether you're looking to advance your career in mobile app development or start
 
 React Native is a powerful framework for building mobile applications that offers several advantages:
 
-- Cross-Platform Development## : Write once, run anywhere. With React Native, you can develop applications for both iOS and Android platforms using a single codebase, saving time and effort.
-- Performance## : React Native provides near-native performance by leveraging native components, which means your app will run smoothly and efficiently on mobile devices.
-- Rich Ecosystem## : The React Native ecosystem includes a vast array of libraries, tools, and community resources that can accelerate development and solve common challenges.
-- Hot Reloading## : This feature allows developers to instantly see the results of the latest changes without needing to recompile the entire application, which speeds up the development process.
-- Component-Based Architecture## : React Native's component-based architecture promotes reusability and maintainability of code, making it easier to manage and scale applications.
-- Strong Community Support## : Being backed by Facebook and a large open-source community, React Native has extensive documentation, tutorials, and community support, making it easier to find solutions and stay updated with best practices.
+- **Cross-Platform Development** : Write once, run anywhere. With React Native, you can develop applications for both iOS and Android platforms using a single codebase, saving time and effort.
+- **Performance** : React Native provides near-native performance by leveraging native components, which means your app will run smoothly and efficiently on mobile devices.
+- **Rich Ecosystem** : The React Native ecosystem includes a vast array of libraries, tools, and community resources that can accelerate development and solve common challenges.
+- **Hot Reloading** : This feature allows developers to instantly see the results of the latest changes without needing to recompile the entire application, which speeds up the development process.
+- **Component-Based Architecture** : React Native's component-based architecture promotes reusability and maintainability of code, making it easier to manage and scale applications.
+- **Strong Community Support** : Being backed by Facebook and a large open-source community, React Native has extensive documentation, tutorials, and community support, making it easier to find solutions and stay updated with best practices.
 
 ## What is React Native?
 
